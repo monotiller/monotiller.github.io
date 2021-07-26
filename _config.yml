@@ -1,0 +1,20 @@
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+title: "Flyhigh Theme" # the name of your site, e.g. ACME Corp.
+description: "A Jekyll theme for those who want more frosted glass in their life..." # Give a short description about what the site is about
+keywords: "Jekyll, Theme" # Comma separated keywords about the content of the site
+owner: "Ahhhh-man, monotiller" # Who is in charge of this site?
+lang: "en-GB" # The language of your site, defaults to en-GB (British English)
+embed-theme: "#ffcd05" # The colour that will be displayed in places such as embeds, provide as a hex value
+background-image: "assets/images/brand/default.jpg" # Default image from here: https://unsplash.com/photos/1tb5N7Q97Sw
+
+# Help to extend the site functionality
+plugins:
+  # Required plugins
+  - jekyll-avatar # Allows you to use your GitHub avatar around the site
+  - jekyll-sitemap # Generates an XML sitemap for search engines
+  - jekyll-feed # Genearates feeds so people can follow your blog content
+  - jekyll-seo-tag # Makes it easier to provide search engines with information about your site
+  - jekyll-paginate # Allows for groups of content to be split amongst multiple pages
+
+  # User added plugins (put yours here!)
