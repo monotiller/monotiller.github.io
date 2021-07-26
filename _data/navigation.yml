@@ -1,3 +1,7 @@
 - title: Home # The name that will appear in your menu
   icon: home # (Optional) The icon that appears to the left of the name, list of icons: https://fonts.google.com/icons
   url: / # The url of the page. It's best to use relational links (i.e. instead of example.com/link, just use /link!)
+
+- title: Directory
+  icon: book
+  url: /directory

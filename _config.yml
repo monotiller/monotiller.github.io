@@ -1,9 +1,9 @@
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: "" # the subpath of your site, e.g. /blog
-title: "Flyhigh Theme" # the name of your site, e.g. ACME Corp.
-description: "A Jekyll theme for those who want more frosted glass in their life..." # Give a short description about what the site is about
-keywords: "Jekyll, Theme" # Comma separated keywords about the content of the site
-owner: "Ahhhh-man, monotiller" # Who is in charge of this site?
+title: "monotiller" # the name of your site, e.g. ACME Corp.
+description: "Junior DevOps Consultant" # Give a short description about what the site is about
+keywords: "DevOps" # Comma separated keywords about the content of the site
+owner: "monotiller" # Who is in charge of this site?
 lang: "en-GB" # The language of your site, defaults to en-GB (British English)
 embed-theme: "#ffcd05" # The colour that will be displayed in places such as embeds, provide as a hex value
 background-image: "assets/images/brand/default.jpg" # Default image from here: https://unsplash.com/photos/1tb5N7Q97Sw
